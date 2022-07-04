@@ -6,9 +6,9 @@ let opcion;
 let precioCurso1 = 10000;
 let precioCurso2 = 8000;
 let precioCurso3 = 12000;
-let curso1 = "'Curso de sintáxis inglesa'";
-let curso2 = "'Curso de sintáxis española'";
-let curso3 = "'Curso de fonética inglesa'";
+const curso1 = "'Curso de sintáxis inglesa'";
+const curso2 = "'Curso de sintáxis española'";
+const curso3 = "'Curso de fonética inglesa'";
 // DECLARACIÓN DE FUNCIONES
 // Función 1
 const mostrarCursos = (nombreCurso1, nombreCurso2, nombreCurso3) => {
